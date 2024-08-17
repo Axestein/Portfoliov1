@@ -208,6 +208,7 @@ export const DATA = {
         "TailwindCSS",
         "Version Control",
         "Restful API",
+        "UI design",
         "Figma",
       ],
       links: [
