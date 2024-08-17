@@ -245,6 +245,11 @@ export const DATA = {
           href: "https://github.com/Axestein/CodersHub",
           icon: <Icons.github className="size-3" />,
         },
+        {
+          type: "Website",
+          href: "https://coders-hub-iota.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
       ],
       image: "/Codershub.png",
     },
