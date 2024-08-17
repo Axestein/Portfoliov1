@@ -11,7 +11,7 @@ export const DATA = {
     "Web Developer and UI/UX Designer.I love building things and helping people.",
   summary:
     "I am a second year undergraduate student pursuing B.Tech CSE in SRM University, Kattankulathur. I hope to contribute my skills to work upon real time projects that have an impact on the world. Open to all opportunities and learning from real-world professionals.",
-  avatarUrl: "/AdityaImag.jpg",
+  avatarUrl: "/adityalinkedin.jpg",
   skills: [
     "Java",
     "C++",
@@ -241,14 +241,14 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Source",
-          href: "https://github.com/Axestein/CodersHub",
-          icon: <Icons.github className="size-3" />,
-        },
-        {
           type: "Website",
           href: "https://coders-hub-iota.vercel.app/",
           icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Axestein/CodersHub",
+          icon: <Icons.github className="size-3" />,
         },
       ],
       image: "/Codershub.png",
@@ -270,14 +270,14 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Source",
-          href: "https://github.com/Axestein/WearIt",
-          icon: <Icons.github className="size-3" />,
-        },
-        {
           type: "Website",
           href: "https://wear-it.vercel.app/",
           icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Axestein/WearIt",
+          icon: <Icons.github className="size-3" />,
         },
       ],
       image: "/Wearit.png",
